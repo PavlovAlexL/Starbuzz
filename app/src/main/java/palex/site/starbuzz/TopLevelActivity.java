@@ -31,5 +31,5 @@ public class TopLevelActivity extends Activity {
     //Добавить слушателя к списковому представлению
     ListView listView = (ListView) findViewById(R.id.list_options);
     listView.setOnItemClickListener(itemClickListener); //добавляем слушателя к списковому представлению
-    listView
+
 }

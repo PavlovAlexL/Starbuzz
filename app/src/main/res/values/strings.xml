@@ -4,6 +4,7 @@
 
     <string-array name="options">
         <item>Drinks</item>
+        <subitem>hihihi</subitem>
         <item>Food</item>
         <item>Stores</item>
     </string-array>
